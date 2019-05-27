@@ -1,2 +1,4 @@
 # algorithm-js
-用js完成一些算法题
+
+### 简单
+1. [两数之和](https://github.com/tfeng-use/algorithm-js/easy/blob/master/README.md)
