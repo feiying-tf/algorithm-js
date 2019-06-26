@@ -25,3 +25,6 @@
 [7. 欧几里得算法](https://github.com/tfeng-use/algorithm-js/blob/master/base/7.md)
 
 [8. 汉诺塔](https://github.com/tfeng-use/algorithm-js/blob/master/base/8.md)
+
+### 面试题
+[1. 实现方法，在src中查找一个最长的连续子字符串，该子字符串全部由成chars中的字符组成](https://github.com/tfeng-use/algorithm-js/blob/master/interview/1.md)
