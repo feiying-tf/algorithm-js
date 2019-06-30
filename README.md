@@ -30,12 +30,19 @@
 
 ### 用js模拟数据结构
 [1. 队列](https://github.com/tfeng-use/dataStructure/blob/master/base/1.md)
+
 [2. 栈](https://github.com/tfeng-use/dataStructure/blob/master/base/2.md)
+
 [3. 链表](https://github.com/tfeng-use/dataStructure/blob/master/base/3.md)
+
 [4. 双向链表](https://github.com/tfeng-use/dataStructure/blob/master/base/4.md)
+
 [5. hash表](https://github.com/tfeng-use/dataStructure/blob/master/base/5.md)
+
 [6. 二叉查找树](https://github.com/tfeng-use/dataStructure/blob/master/base/6.md)
+
 [7. 图](https://github.com/tfeng-use/dataStructure/blob/master/base/7.md)
+
 [8. 集合Set](https://github.com/tfeng-use/dataStructure/blob/master/base/8.md)
 
 ### 面试题
