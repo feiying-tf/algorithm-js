@@ -45,5 +45,7 @@
 
 [8. 集合Set](https://github.com/tfeng-use/algorithm-js/blob/master/dataStructure/8.md)
 
+[9. 通过广度搜索查找最短路径](https://github.com/tfeng-use/algorithm-js/blob/master/dataStructure/9.md)
+
 ### 面试题
 [1. 实现方法，在src中查找一个最长的连续子字符串，该子字符串全部由成chars中的字符组成](https://github.com/tfeng-use/algorithm-js/blob/master/interview/1.md)
