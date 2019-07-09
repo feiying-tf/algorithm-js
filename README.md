@@ -47,5 +47,9 @@
 
 [9. 通过广度搜索查找最短路径](https://github.com/tfeng-use/algorithm-js/blob/master/dataStructure/9.md)
 
+[10. 通过迪克-斯特拉算法查找最短权重路径](https://github.com/tfeng-use/algorithm-js/blob/master/dataStructure/10.md)
+
+[11. 通过贝尔曼-福特算法查找最短权重路径](https://github.com/tfeng-use/algorithm-js/blob/master/dataStructure/11.md)
+
 ### 面试题
 [1. 实现方法，在src中查找一个最长的连续子字符串，该子字符串全部由成chars中的字符组成](https://github.com/tfeng-use/algorithm-js/blob/master/interview/1.md)
