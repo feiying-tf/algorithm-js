@@ -53,3 +53,9 @@
 
 ### 面试题
 [1. 实现方法，在src中查找一个最长的连续子字符串，该子字符串全部由成chars中的字符组成](https://github.com/tfeng-use/algorithm-js/blob/master/interview/1.md)
+
+[2. 实现方法，通过贪婪算法查找出覆盖所有城市所需要的最少电台数](https://github.com/tfeng-use/algorithm-js/blob/master/interview/2.md)
+
+[3. 实现方法，通过贪婪算法实现格子问题](https://github.com/tfeng-use/algorithm-js/blob/master/interview/3.md)
+
+[4. 实现方法，通过动态分布完成背包问题](https://github.com/tfeng-use/algorithm-js/blob/master/interview/4.md)
